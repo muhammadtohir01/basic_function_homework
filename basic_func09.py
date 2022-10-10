@@ -4,5 +4,6 @@
 
 # decrease the value of a to one and return
 def main(a):
+    
     return a-1
 print(main(3))
